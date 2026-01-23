@@ -1,8 +1,10 @@
+# Online Platform Resources
+
 A collection of references to frameworks, tools, services, and applications commonly mentioned in front-end development, web platforms, and product documentation.
 
 ---
 
-## Frameworks & Core Libraries
+## 🧩 Frameworks & Core Libraries
 
 - [Vue.js](https://vuejs.org) — Progressive JavaScript framework for building user interfaces
 - [Nuxt.js](https://nuxtjs.org) — Framework for creating Vue-powered applications
@@ -12,7 +14,7 @@ A collection of references to frameworks, tools, services, and applications comm
 
 ---
 
-## Documentation & Learning Resources
+## 📚 Documentation & Learning Resources
 
 - [Vue.js Official Guide](https://vuejs.org/guide)
 - [MDN Web Docs](https://developer.mozilla.org)
@@ -21,7 +23,7 @@ A collection of references to frameworks, tools, services, and applications comm
 
 ---
 
-## Developer Tools & Communities
+## 👥 Developer Tools & Communities
 
 - [GitHub](https://github.com)
 - [Stack Overflow](https://stackoverflow.com)
@@ -31,7 +33,7 @@ A collection of references to frameworks, tools, services, and applications comm
 
 ---
 
-## Utilities & Integrations
+## 🔌 Utilities & Integrations
 
 - [Axios](https://axios-http.com) — Promise-based HTTP client
 - [GraphQL](https://graphql.org) — Query language for APIs
@@ -41,7 +43,7 @@ A collection of references to frameworks, tools, services, and applications comm
 
 ---
 
-## Apps / Websites
+## 🌐 Apps / Websites
 
 - [Laracasts](https://laracasts.com) — Video tutorials for web developers
 - [Formlets](https://formlets.com) — Online form builder
@@ -64,8 +66,54 @@ A collection of references to frameworks, tools, services, and applications comm
 
 ---
 
-## Discovery & Reference Tools
+## 🔍 Discovery & Reference Tools
 
 - [BuiltWith](https://builtwith.com)
 - [WebTechSurvey](https://webtechsurvey.com)
 - [Wikipedia](https://www.wikipedia.org)
+
+---
+
+## 🧪 Testing & Quality
+
+- [Jest](https://jestjs.io) — JavaScript testing framework
+- [Cypress](https://www.cypress.io) — End-to-end testing for web applications
+- [Playwright](https://playwright.dev) — Cross-browser testing framework
+- [ESLint](https://eslint.org) — Static analysis tool for JavaScript
+- [Prettier](https://prettier.io) — Code formatter
+
+---
+
+## 🚀 Hosting & Deployment
+
+- [Netlify](https://www.netlify.com) — Hosting and deployment platform for static and JAMstack sites
+- [Vercel](https://vercel.com) — Frontend hosting and deployment platform
+- [GitHub Pages](https://pages.github.com) — Static site hosting directly from GitHub repositories
+- [Cloudflare Pages](https://pages.cloudflare.com) — Static site hosting with edge delivery
+
+---
+
+## 🎨 Design & Assets
+
+- [Figma](https://www.figma.com) — Collaborative interface design tool
+- [Figma Community](https://www.figma.com/community) — Shared design resources
+- [Unsplash](https://unsplash.com) — Free stock photography
+- [Pexels](https://www.pexels.com) — Free stock photos and videos
+- [Heroicons](https://heroicons.com) — Free SVG icons
+
+---
+
+## 🧰 APIs & Mock Data
+
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com) — Fake REST API for testing and prototyping
+- [Reqres](https://reqres.in) — Hosted REST API for frontend testing
+- [Postman](https://www.postman.com) — API development and testing platform
+
+---
+
+## 🛠️ General Utilities
+
+- [Can I Use](https://caniuse.com) — Browser support tables for web technologies
+- [Internet Archive](https://archive.org) — Digital archive of websites and media
+- [DownDetector](https://downdetector.com) — Service outage monitoring
+- [Speedtest](https://www.speedtest.net) — Internet speed testing
