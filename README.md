@@ -1,5 +1,3 @@
-# Online Platform Resources
-
 A collection of references to frameworks, tools, services, and applications commonly mentioned in front-end development, web platforms, and product documentation.
 
 ---
