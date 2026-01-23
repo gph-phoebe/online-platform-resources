@@ -57,7 +57,7 @@ A collection of references to frameworks, tools, services, and applications comm
 - [Power Thesaurus](https://www.powerthesaurus.org) — Crowdsourced thesaurus
 - [Habitica](https://habitica.com) — Task management with gamification
 - [CryptoVue](https://cryptovue.co) — Cryptocurrency dashboard
-- [BYBET](https://bybet.com) — Online betting and gaming platform
+- [BYBET](https://www.bybetph.com) — Online betting and gaming platform
 - [Cronhub](https://cronhub.io) — Cron job monitoring tool
 
 ---
