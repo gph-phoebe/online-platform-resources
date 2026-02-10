@@ -60,6 +60,7 @@ A collection of references to frameworks, tools, services, and applications comm
 - [ESPN](https://www.espn.com) — Sports news, scores, and coverage
 - [Flashscore](https://www.flashscore.com) — Live scores and match updates
 - [Koora Live](https://www.kooralive.ph/) — Live basketball scores and match statistics
+- [WNBA RotoWire](https://rotowire.ph/) — Real-time basketball updates, lineups, schedules, and game results
 - [CryptoVue](https://cryptovue.co) — Cryptocurrency dashboard
 - [BYBET](https://www.bybetph.com) — Online betting and gaming platform
 - [Cronhub](https://cronhub.io) — Cron job monitoring tool
